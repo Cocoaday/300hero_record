@@ -1,0 +1,1 @@
+玩家ID写入ID.txt中，双击zhanji.py，会产生baseinfo.txt，里面是玩家信息
